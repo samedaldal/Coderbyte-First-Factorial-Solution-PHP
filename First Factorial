@@ -8,7 +8,7 @@ function FirstFactorial($num)
   // code goes here
   if($num < 1 or $num > 18)
   {
-    echo("Ä°nvalid input");
+    echo("Invalid input");
   }
   else
   {
